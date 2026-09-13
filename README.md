@@ -1,4 +1,4 @@
-# Emmanuel Edore
+# Emmanuel Edore Asekhame
 
 **Technical Program Manager | AI & Digital Transformation | PMO | Cybersecurity | Cloud | Salesforce**
 
