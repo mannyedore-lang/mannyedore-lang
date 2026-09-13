@@ -4,42 +4,46 @@
 
 Technology and transformation leader with 21+ years of experience delivering complex programs across engineering, AI, cloud, cybersecurity, enterprise platforms, and digital operations.
 
-I use this GitHub portfolio to demonstrate how I structure and communicate technical programs: roadmaps, dependencies, risks, KPIs, executive dashboards, governance, and delivery artifacts.
+This portfolio demonstrates how I structure and communicate complex technical programs through executive dashboards, delivery analytics, governance models, risk frameworks, KPI design, and value-realization artifacts.
 
-## Selected Portfolio Projects
+## Featured Portfolio
 
-### 1. AI Program Delivery Dashboard
-A lightweight Python dashboard project for tracking AI initiatives across scope, milestones, risks, dependencies, value realization, and executive KPIs.
+### [AI Program Delivery Dashboard](https://github.com/mannyedore-lang/ai-program-delivery-dashboard)
+Executive AI portfolio dashboard covering program health, budget, milestones, dependencies, high-severity risks, launch readiness, and value realization. Includes a runnable Streamlit application and synthetic program data.
 
-### 2. Enterprise PMO Portfolio Analytics
-Portfolio-level reporting model for budget, schedule, resource demand, delivery health, and governance across multiple programs.
+### [Enterprise PMO Portfolio Analytics](https://github.com/mannyedore-lang/enterprise-pmo-portfolio-analytics)
+Executive portfolio scorecard covering budget vs. forecast, schedule variance, delivery health, risk concentration, and exception-based leadership reporting. Includes a runnable Streamlit dashboard and PMO operating-review framework.
 
-### 3. Cybersecurity Risk & Remediation Tracker
-A program-management view of security findings, control gaps, remediation ownership, due dates, risk scores, and executive reporting.
+### [Cybersecurity Risk & Remediation Tracker](https://github.com/mannyedore-lang/cybersecurity-risk-remediation-tracker)
+Security program dashboard for critical/high findings, remediation ownership, evidence readiness, due-date governance, executive escalation, and risk-acceptance support. Includes a runnable Streamlit dashboard and governance cadence.
 
-### 4. Salesforce Transformation Case Study
-A structured case study showing how a global CRM transformation can be governed across business requirements, releases, adoption, KPIs, and operating cost outcomes.
+### [Salesforce Transformation Case Study](https://github.com/mannyedore-lang/salesforce-transformation-case-study)
+Executive CRM transformation case study covering a 127-facility operating model, workflow automation, adoption, SLA performance, release quality, governance, and illustrative 40% IT OPEX reduction. Includes a runnable Streamlit dashboard and KPI framework.
 
-## Core Skills
+## What Recruiters Will See Here
 
 - Technical Program Management
-- Portfolio & PMO Governance
 - AI / GenAI Program Delivery
-- Cloud & Enterprise Platforms
-- Cybersecurity & Risk Management
+- Portfolio & PMO Governance
+- Executive KPI & Dashboard Design
+- Cybersecurity Program Management
 - Salesforce / CRM Transformation
-- Agile / Scrum / SAFe
-- Azure DevOps / Jira
-- Power BI / Excel / SQL
-- Executive Reporting & KPI Design
+- Cloud & Enterprise Platforms
+- Agile / Scrum / SAFe Delivery
 - Budget, Forecasting & Vendor Management
+- Risk, Dependency & Release Governance
+- Azure DevOps / Jira / Power BI / Excel / SQL
 - Cross-functional Leadership
 
 ## Certifications
 
 PMP | CSM | CSPO | SAFe | AWS Solutions Architect | Salesforce Administrator | CISM | CRISC
 
-## Contact
+## Portfolio Principles
+
+All examples are designed for professional demonstration. Synthetic or illustrative data is used where appropriate, and no confidential employer, client, security, or proprietary production data is included.
+
+## Connect
 
 LinkedIn: https://www.linkedin.com/in/emmanuel-asekhame-42323064/
 
