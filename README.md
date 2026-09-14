@@ -27,37 +27,34 @@ I have managed Salesforce development teams, administrators, architects, integra
 ### Entergy / ComTec — Agile Salesforce Multi-Cloud Delivery
 Worked with **ComTec** on end-to-end Agile delivery of a major Entergy Salesforce transformation supporting a large-scale customer environment. The program spanned **Service Cloud, Community / Experience Cloud and Marketing Cloud**, connecting customer-service capabilities with broader metering, outage-management and digital customer-engagement processes.
 
-The engagement was managed across the full delivery lifecycle—from discovery and backlog formation through development, testing, release and operational transition. Responsibilities included:
+The engagement was managed across the full delivery lifecycle—from discovery and backlog formation through development, testing, release and operational transition. Responsibilities included translating business objectives into epics/features/user stories; grooming and refining **2,500+ user stories**; establishing acceptance criteria and dependency sequencing; facilitating backlog refinement, sprint planning, daily execution, demos and retrospectives; coordinating onshore/offshore Salesforce developers, architects, QA, integration teams, product owners and business SMEs; driving SIT/UAT and defect triage; managing release/cutover and post-production stabilization; and tracking velocity, backlog health, risks, milestones and executive delivery KPIs.
 
-- translating business objectives and customer-service processes into epics, features and executable user stories
-- grooming and refining **2,500+ user stories** across a complex multi-cloud Salesforce backlog
-- establishing acceptance criteria, prioritization, dependency sequencing and Definition of Ready / Definition of Done expectations
-- facilitating Agile ceremonies including backlog refinement, sprint planning, daily execution, demos/reviews and retrospectives
-- coordinating onshore/offshore Salesforce developers, architects, QA, integration teams, product owners and business SMEs
-- managing Service Cloud, Community / Experience Cloud and Marketing Cloud delivery dependencies
-- coordinating integration requirements supporting customer service, metering and outage-management processes
-- driving SIT, UAT, defect triage, regression readiness and business acceptance
-- managing release planning, cutover, deployment readiness and post-production stabilization
-- tracking velocity, backlog health, risks, dependencies, milestones and executive delivery KPIs
-- supporting adoption, operational handoff and continuous improvement after release
+The program demonstrates the ability to manage Salesforce delivery **start to finish at enterprise scale**, while maintaining the technical depth to work with developers and architects and the business context to translate customer requirements into deployable platform capabilities.
 
-The program demonstrates the ability to manage Salesforce delivery **start to finish at enterprise scale**, while maintaining enough technical depth to work effectively with developers and architects and enough business context to translate customer requirements into deployable platform capabilities.
+### Airbnb — MHIL (Minimizing Humans in the Loop) Autonomous Trust & Safety Program
+Developed and led **MHIL — Minimizing Humans in the Loop**, an AI/ML-driven investigation automation program supporting Airbnb's platform trust, safety and security objectives. The program focused on increasing autonomous detection and investigation of suspicious activity while reducing repetitive manual review and preserving human intervention for ambiguous, exceptional or high-risk cases.
 
-### Airbnb — Autonomous / AI-Driven Investigation Automation
-Developed and led an **AI-driven investigation automation framework supporting Airbnb machine-learning security programs**, focused on moving repeatable investigative work from heavily manual execution toward intelligent, autonomous workflows.
+The business objective was to help protect the platform and its users from **bad actors, fraudulent or fake listings, phishing and social-engineering scams, account and transaction abuse, and attempts to obtain or misuse sensitive financial information**.
 
-The program required end-to-end coordination across business requirements, security use cases, data and ML stakeholders, technical delivery, testing and operational adoption. Delivery responsibilities included:
+The program was driven from concept through operationalization, including:
 
-- identifying investigation processes suitable for automation and autonomous decision support
-- translating security and operational requirements into program scope, workflows, backlog and measurable outcomes
-- coordinating data, machine-learning, engineering, security and operational stakeholders
-- defining workflow logic, escalation points and human-in-the-loop controls for higher-risk decisions
-- managing dependencies between investigation processes, data availability, model-driven insights and downstream actions
-- driving development planning, testing, validation and production-readiness activities
-- establishing program risks, milestones, ownership, governance and executive reporting
-- supporting rollout, operational adoption, monitoring and iterative improvement after implementation
+- identifying high-volume trust-and-safety investigation workflows suitable for autonomous processing
+- mapping manual investigation processes and determining where ML/automation could safely reduce human touchpoints
+- translating fraud, security and platform-abuse scenarios into requirements, workflows, backlog items and measurable outcomes
+- coordinating machine-learning, data, engineering, security, trust-and-safety and operations stakeholders
+- supporting detection and investigation patterns for suspicious actors, fake listings and deceptive platform activity
+- strengthening workflows intended to identify phishing/social-engineering patterns and reduce exposure of sensitive user and financial information
+- defining model/workflow confidence thresholds, exception paths and escalation criteria so routine cases could progress automatically while uncertain or high-risk cases received human review
+- coordinating data dependencies, model-driven signals, investigation logic and downstream case actions
+- managing development planning, testing, validation, release readiness and production deployment
+- establishing governance for false positives/false negatives, operational risk, model/workflow performance and escalation
+- supporting rollout, adoption, production monitoring and iterative optimization after implementation
 
-The implementation demonstrates practical experience taking an **AI/autonomous automation concept from use-case identification and requirements through implementation, validation, deployment and operationalization**, with emphasis on reducing repetitive investigative effort while retaining governance and appropriate human oversight.
+The MHIL operating model was intentionally **human-on-the-loop rather than human-in-every-loop**: automation handled repeatable, sufficiently confident investigative decisions, while investigators concentrated on exceptions, emerging attack patterns and cases requiring judgment.
+
+Program success was structured around outcomes such as **automation rate, reduction in manual investigation touches, investigation cycle time, detection effectiveness, false-positive/false-negative trends, escalation rate, platform-abuse prevention and operational efficiency**.
+
+This work demonstrates end-to-end leadership of an autonomous AI/ML program where the goal was not automation for its own sake, but **safer scaling of platform trust and security—detecting abuse earlier, protecting legitimate users and reducing opportunities for fraud and phishing**.
 
 ### Phillips 66 — Einstein / Salesforce AI
 Led AI-enabled Salesforce initiatives incorporating **Einstein** capabilities into enterprise transformation and analytics workflows, connecting intelligent insights and automation with portfolio, operational and business decision-making.
@@ -97,7 +94,7 @@ The role connected enterprise program leadership with the highly technical world
 Hands-on and program-leadership case study covering Salesforce development, multi-cloud delivery, AI/Einstein and Agentforce exposure, enterprise Agile delivery, workflow automation, integrations, adoption, SLA performance, release quality, governance and value realization.
 
 ### [AI Program Delivery Dashboard](https://github.com/mannyedore-lang/ai-program-delivery-dashboard)
-Executive AI portfolio dashboard covering program health, budget, milestones, dependencies, high-severity risks, launch readiness and value realization.
+Executive AI portfolio dashboard covering autonomous AI/ML delivery, program health, budget, milestones, dependencies, high-severity risks, launch readiness and value realization.
 
 ### [Cybersecurity Risk & Remediation Tracker](https://github.com/mannyedore-lang/cybersecurity-risk-remediation-tracker)
 Security program dashboard aligned to experience managing CMMC L2 / NIST SP 800-171 readiness, remediation ownership, evidence readiness, due-date governance and executive escalation.
@@ -109,7 +106,7 @@ Executive portfolio scorecard covering budget vs. forecast, schedule variance, d
 
 **Salesforce & AI:** Apex | Lightning | Flow | SOQL | Einstein | Agentforce | Salesforce Voice | Field Service | Service Cloud | Experience / Community Cloud | Marketing Cloud | Industries/Vlocity | OmniStudio | OmniScript | Integration Procedures | Data Cloud | APIs | MuleSoft | Data Migration | UAT | Release Management
 
-**AI / Autonomous Delivery:** AI-Driven Automation | ML Program Delivery | Autonomous Workflows | Human-in-the-Loop Governance | Investigation Automation | AI Operationalization
+**AI / Autonomous Delivery:** AI-Driven Automation | ML Program Delivery | Autonomous Workflows | MHIL | Human-on-the-Loop Governance | Trust & Safety Automation | Fraud / Platform-Abuse Detection | Investigation Automation | AI Operationalization
 
 **Cybersecurity:** CMMC Level 2 | NIST SP 800-171 | Control Assessment | SSP / POA&M Governance | Evidence Readiness | Risk Remediation | CISM | CRISC
 
