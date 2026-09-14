@@ -6,7 +6,14 @@ Technology and transformation leader with 21+ years of experience delivering com
 
 ## Salesforce Development, AI & Program Leadership
 
-I bring extensive hands-on Salesforce delivery experience spanning solution development, administration, AI-enabled CRM, integration, architecture coordination, release management, and enterprise program/project leadership. My Salesforce work has included **Apex, Lightning, Salesforce Flow, Einstein, Agentforce, OmniStudio/OmniScript, Integration Procedures, SOQL, APIs, MuleSoft integration patterns, CI/CD/release governance, data migration, UAT, and production readiness**.
+I bring extensive hands-on Salesforce delivery experience spanning solution development, administration, AI-enabled CRM, integration, architecture coordination, release management, and enterprise program/project leadership. My Salesforce work has included **Apex, Lightning Web Components, Lightning, Salesforce Flow, Einstein, Agentforce, OmniStudio/OmniScript, Integration Procedures, SOQL, APIs, MuleSoft integration patterns, CI/CD/release governance, data migration, UAT, and production readiness**.
+
+### How Salesforce change is engineered
+I understand Salesforce delivery from the code and architecture level—not only from the PMO layer. A business requirement is translated into **objects, fields, security, user stories and acceptance criteria**, then engineered using the right combination of **Flow/configuration, Apex classes and triggers, Lightning Web Components, SOQL, OmniStudio and APIs**. Salesforce DX/CLI, VS Code, sandbox/development environments and Git/source control support controlled engineering, while CI/CD moves tested metadata and code through higher environments toward production.
+
+In an enterprise implementation, Salesforce normally sits inside a larger technology ecosystem. A customer action may begin in **Experience Cloud or Service Cloud**, invoke a Flow or Lightning component, execute Apex/business logic, call MuleSoft or REST APIs, update ERP/billing/payment/data platforms, return the result to Salesforce and trigger downstream notifications, analytics or customer-service actions. That is why I manage Salesforce as both **software engineering and business transformation**—from requirement and architecture through code, integration, SIT/UAT, deployment, hypercare, adoption and measurable operating change.
+
+For a deeper technical walkthrough of this lifecycle—including a visual architecture diagram—see my **[Salesforce Multi-Cloud Development & Transformation Portfolio](https://github.com/mannyedore-lang/salesforce-transformation-case-study)**.
 
 ### Salesforce platform experience
 
@@ -19,6 +26,13 @@ I bring extensive hands-on Salesforce delivery experience spanning solution deve
 - **Salesforce Platform** — custom application development, Lightning, Apex, Flow, SOQL, integrations and enterprise automation
 - **Einstein / Salesforce AI** — AI-enabled CRM and analytics use cases supporting intelligent workflows, insights, automation and decision support
 - **Agentforce** — AI-agent-enabled customer service and operational workflow transformation
+
+### Salesforce ecosystem & Dreamforce
+My Salesforce experience spans roughly a decade of professional engagement with the broader Salesforce ecosystem and its evolution from cloud CRM into a multi-cloud, integration, data and agentic-AI platform. I have followed the platform roadmap and innovation showcased through **Dreamforce**, Salesforce's flagship annual conference, including the strategic product direction communicated by Salesforce Chair, CEO and Co-Founder **Marc Benioff**.
+
+This reflects long-term engagement with the Salesforce ecosystem and Benioff-led platform strategy—not a claim of a personal relationship with Marc Benioff.
+
+**Official links:** [Salesforce](https://www.salesforce.com/) | [Salesforce Developers](https://developer.salesforce.com/) | [Dreamforce](https://www.salesforce.com/dreamforce/)
 
 ## End-to-End Transformation Programs
 
@@ -123,7 +137,7 @@ Led global Network Control / Grid Automation program and PMO activities supporti
 ## Featured Portfolio
 
 ### [Salesforce Transformation Case Study](https://github.com/mannyedore-lang/salesforce-transformation-case-study)
-Hands-on and program-leadership case study covering Salesforce development, multi-cloud delivery, AI/Einstein and Agentforce exposure, enterprise Agile delivery, workflow automation, integrations, adoption, SLA performance, release quality, governance and value realization.
+Hands-on and program-leadership case study covering Salesforce development, **Apex/LWC/Flow engineering lifecycle, integration architecture, CI/CD**, multi-cloud delivery, AI/Einstein and Agentforce exposure, enterprise Agile delivery, workflow automation, adoption, release quality, governance and value realization.
 
 ### [AI Program Delivery Dashboard](https://github.com/mannyedore-lang/ai-program-delivery-dashboard)
 Executive AI portfolio dashboard covering autonomous AI/ML delivery, program health, budget, milestones, dependencies, high-severity risks, launch readiness and value realization.
@@ -142,7 +156,7 @@ Security program dashboard aligned to experience managing CMMC L2 / NIST SP 800-
 
 **SPM / PPM:** ServiceNow SPM | Fluid | Planisware | Project Online | Demand Management | Portfolio Intake | Roadmaps | Resource Management | Vendor Evaluation / Selection
 
-**Salesforce & AI:** Apex | Lightning | Flow | SOQL | Einstein | Agentforce | Salesforce Voice | Field Service | Service Cloud | Experience / Community Cloud | Marketing Cloud | Industries/Vlocity | OmniStudio | OmniScript | Integration Procedures | Data Cloud | APIs | MuleSoft
+**Salesforce & AI:** Apex | Apex Triggers | Lightning Web Components | Lightning | Flow | SOQL | Einstein | Agentforce | Salesforce Voice | Field Service | Service Cloud | Experience / Community Cloud | Marketing Cloud | Industries/Vlocity | OmniStudio | OmniScript | Integration Procedures | Data Cloud | APIs | MuleSoft | Salesforce DX / CLI | Git | CI/CD | SIT/UAT
 
 **AI / Autonomous Delivery:** AI-Driven Automation | ML Program Delivery | Autonomous Workflows | MHIL | Human-on-the-Loop Governance | Trust & Safety Automation | Fraud / Platform-Abuse Detection | AI Operationalization
 
