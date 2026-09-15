@@ -1,170 +1,117 @@
 # Emmanuel Edore Asekhame
 
-Technology Executive | Technical Program Manager | Salesforce & AI Transformation | Refinery Technology | Cybersecurity / CMMC | Grid Automation | PMO | Cloud
+Technology Executive | Technical Program Manager | Salesforce & AI Transformation | Financial Services | Energy & Refining Technology | Cybersecurity / CMMC | Grid Automation | PMO | Cloud
 
-Technology and transformation leader with 21+ years of experience delivering complex global programs across refinery and energy technology, Salesforce/CRM, AI and autonomous automation, cybersecurity, cloud, industrial technology, grid automation, enterprise platforms, and digital operations.
+Technology and transformation leader with 21+ years of experience delivering complex global programs across Salesforce/CRM, AI and autonomous automation, financial services and wealth management, refinery and energy technology, sustainability data, cybersecurity, cloud, industrial technology, grid automation, enterprise platforms, and digital operations.
 
 ## Salesforce Development, AI & Program Leadership
 
-I bring extensive hands-on Salesforce delivery experience spanning solution development, administration, AI-enabled CRM, integration, architecture coordination, release management, and enterprise program/project leadership. My Salesforce work has included Apex, Lightning Web Components, Lightning, Salesforce Flow, Einstein, Agentforce, OmniStudio/OmniScript, Integration Procedures, SOQL, APIs, MuleSoft integration patterns, CI/CD/release governance, data migration, UAT, and production readiness.
+I bring extensive Salesforce delivery experience spanning solution development, administration, AI-enabled CRM, integration, architecture coordination, release management, and enterprise program/project leadership. My Salesforce work has included Apex, Lightning Web Components, Salesforce Flow, Einstein, Agentforce, OmniStudio/OmniScript, Integration Procedures, SOQL, APIs, MuleSoft integration patterns, CI/CD/release governance, data migration, SIT/UAT, production readiness and enterprise adoption.
 
-### How Salesforce change is engineered
-I understand Salesforce delivery from the code and architecture level—not only from the PMO layer. A business requirement is translated into objects, fields, security, user stories and acceptance criteria, then engineered using the right combination of Flow/configuration, Apex classes and triggers, Lightning Web Components, SOQL, OmniStudio and APIs. Salesforce DX/CLI, VS Code, sandbox/development environments and Git/source control support controlled engineering, while CI/CD moves tested metadata and code through higher environments toward production.
+### My Salesforce Story — From CRM Delivery to Agentic AI
 
-In an enterprise implementation, Salesforce normally sits inside a larger technology ecosystem. A customer action may begin in Experience Cloud or Service Cloud, invoke a Flow or Lightning component, execute Apex/business logic, call MuleSoft or REST APIs, update ERP/billing/payment/data platforms, return the result to Salesforce and trigger downstream notifications, analytics or customer-service actions. That is why I manage Salesforce as both software engineering and business transformation—from requirement and architecture through code, integration, SIT/UAT, deployment, hypercare, adoption and measurable operating change.
+My Salesforce story has developed over roughly a decade of working with and around the platform as it evolved from enterprise CRM into a multi-cloud, integration, data and agentic-AI ecosystem. I have led programs where Salesforce was not simply an application—it was the customer and employee experience layer connecting business processes, data, APIs, cloud services and operational systems.
 
-For a deeper technical walkthrough of this lifecycle—including a visual architecture diagram—see my [Salesforce Multi-Cloud Development & Transformation Portfolio](https://github.com/mannyedore-lang/salesforce-transformation-case-study).
+At Entergy / ComTec, I led Agile multi-cloud delivery across Service Cloud, Experience / Community Cloud and Marketing Cloud, supporting a large-scale customer environment and coordinating more than 2,500 user stories from discovery and backlog refinement through architecture, development, SIT/UAT, cutover, stabilization and adoption. At JLL, my experience included global Community / Experience Cloud delivery across AMER, EMEA and APAC. My broader Salesforce work has included Field Service, Industries/Vlocity, OmniStudio, Data Cloud, integrations, payments, workflow automation and enterprise release governance. At AmerisourceBergen / Cencora, that journey moved further into AI through Agentforce, Salesforce Voice and MuleSoft-enabled customer-service transformation.
 
-### Salesforce platform experience
+I understand how Salesforce change is engineered—not only how it is reported through a PMO. Business requirements become objects, fields, security models, epics, user stories and acceptance criteria; teams determine where Flow/configuration is appropriate and where Apex, LWC, OmniStudio or integration engineering is required; Git/source control and CI/CD support controlled promotion; SIT/UAT validates the integrated business process; and deployment is followed by hypercare, adoption and value realization.
 
-- Service Cloud — service workflow modernization, case/service operations, KPI and SLA visibility
-- Field Service Lightning / Salesforce Field Service — field-service workflows, workforce scheduling, asset management, Flow and Apex automation
-- Experience Cloud / Community Cloud — customer/partner portals and global community implementations
-- Marketing Cloud — customer engagement, campaign and digital-communications delivery integrated with enterprise CRM programs
-- Salesforce Industries / Vlocity — OmniStudio, OmniScript, Integration Procedures, Enterprise Product Catalog, business rules, pricing and product configuration
-- Salesforce Data Cloud — customer/data unification and analytics-oriented transformation work
-- Salesforce Platform — custom application development, Lightning, Apex, Flow, SOQL, integrations and enterprise automation
-- Einstein / Salesforce AI — AI-enabled CRM and analytics use cases supporting intelligent workflows, insights, automation and decision support
-- Agentforce — AI-agent-enabled customer service and operational workflow transformation
+Dreamforce has been an important lens into that evolution. I follow Salesforce's product direction and the transition toward Data Cloud, Einstein and Agentforce as the platform increasingly combines CRM, trusted enterprise data and autonomous agents. A featured Dreamforce keynote / event reference that captures this continuing evolution is available here: [Dreamforce Keynote](https://www.linkedin.com/events/7497712781685764097/theater/).
 
-### Salesforce ecosystem & Dreamforce
-My Salesforce experience spans roughly a decade of professional engagement with the broader Salesforce ecosystem and its evolution from cloud CRM into a multi-cloud, integration, data and agentic-AI platform. I have followed the platform roadmap and innovation showcased through Dreamforce, Salesforce's flagship annual conference, including the strategic product direction communicated by Salesforce Chair, CEO and Co-Founder Marc Benioff.
+For a deeper technical walkthrough, see my [Salesforce Multi-Cloud Development & Transformation Portfolio](https://github.com/mannyedore-lang/salesforce-transformation-case-study).
 
-This reflects long-term engagement with the Salesforce ecosystem and Benioff-led platform strategy—not a claim of a personal relationship with Marc Benioff.
+## Selected Enterprise Transformation Programs
 
-Official links: [Salesforce](https://www.salesforce.com/) | [Salesforce Developers](https://developer.salesforce.com/) | [Dreamforce](https://www.salesforce.com/dreamforce/)
+### USAA — Financial Advice & Solutions Group Vendor Selection / Wealth Management Desktop
 
-## End-to-End Transformation Programs
+Supported a Financial Advice & Solutions Group technology initiative focused on vendor evaluation and portfolio management for a wealth-management desktop environment. The work connected financial-advice business needs with technology selection, integration, user experience, data, risk, controls and delivery governance.
+
+Key responsibilities and portfolio themes included:
+
+- structured vendor-selection planning, requirements gathering and evaluation criteria
+- coordination across financial advisors, product, technology, architecture, risk, compliance and vendor stakeholders
+- evaluation of functional fit, integration requirements, scalability, security, implementation complexity and total cost considerations
+- portfolio roadmap and prioritization for wealth-management desktop capabilities
+- consolidation of advisor workflows and customer/account information into a more integrated desktop experience
+- dependency, risk, milestone and executive-status management
+- alignment of technology investment with advisor productivity, customer experience and operating efficiency
+
+The program strengthened my financial-services experience at the intersection of wealth management, vendor selection, portfolio governance, enterprise platforms and regulated technology delivery.
+
+### ExxonMobil — Corporate Emissions & Data Reporting Schedule
+
+Created and coordinated a corporate emissions and data-reporting schedule supporting disciplined collection, validation, review and delivery of environmental / emissions information across a complex energy-enterprise environment.
+
+The operating model treated emissions reporting as a governed data program rather than a single reporting deadline. Work included establishing reporting calendars and milestones; mapping data-provider, reviewer and approver responsibilities; identifying dependencies between facilities, business units and corporate reporting teams; creating submission and validation checkpoints; tracking data-quality exceptions and late inputs; coordinating review cycles; and improving visibility into reporting readiness.
+
+The schedule supported stronger accountability around data lineage, completeness, timeliness, quality assurance and executive reporting. It also reinforced the connection between sustainability / environmental reporting and the underlying operating data generated across large industrial assets.
+
+Public company context from 2015 provides scale for the environment: ExxonMobil reported approximately 122 million metric tons of net-equity greenhouse-gas emissions (CO2e) for that year. This public figure is included only to illustrate enterprise scale and is not presented as a metric personally owned or produced by me.
+
+### State Farm — Asset & Risk Management Roadmap and Inventory | 2015
+
+Developed asset and risk-management roadmap and inventory work in a State Farm environment, helping establish clearer visibility into technology assets, ownership, lifecycle considerations, risk exposure, dependencies and remediation priorities. The work connected asset inventory discipline with risk-based planning so that leadership could better understand what existed, who owned it, where exposure was concentrated and what actions should be prioritized.
+
+Key areas included asset/inventory structure, ownership and accountability, risk categorization, dependency mapping, roadmap sequencing, lifecycle considerations, remediation tracking, governance and executive visibility.
+
+#### State Farm in 2015 — business and leadership context
+
+State Farm traces its history to 1922, when George J. Mecherle, a retired farmer and insurance salesman, founded the company around the idea of fair insurance pricing for farmers. It grew from an automobile insurer into one of the largest insurance and financial-services organizations in the United States while retaining a mutual-company structure.
+
+2015 was an important leadership-transition year. Edward B. Rust Jr., who had served as CEO for approximately three decades, announced that Michael Tipsord would succeed him as Chief Executive Officer in September 2015, while Rust continued as Chairman.
+
+State Farm's reported 2015 financial scale also provides useful context for the asset and risk environment. State Farm reported group net worth of approximately **$82.7 billion**, group revenue of approximately **$75.7 billion**, and group net income of approximately **$6.2 billion** at year-end 2015. State Farm Mutual Automobile Insurance Company separately reported approximately **$138.5 billion in assets**. Because State Farm is a mutual insurer rather than a publicly traded corporation, I use reported net worth and assets rather than presenting a public-equity market capitalization as a company “valuation.”
+
+These public corporate figures are included solely as historical operating context and do not imply personal responsibility for State Farm's corporate financial results.
 
 ### Phillips 66 — Refinery Technology, IT Portfolio & Continuous Improvement
-Served as a Senior Program Manager, Continuous Improvement, supporting enterprise technology portfolio management and project controls across Phillips 66's Refining and broader downstream operating environment. The role connected refinery technology investment, IT financial management, portfolio governance, project controls, forecasting, resource planning and continuous improvement with executive decision-making.
 
-#### Refinery technology portfolio
-Worked within a refining technology environment spanning the Phillips 66 refinery network, including Bayway, Billings, Borger, Ferndale, Humber, Lake Charles, Los Angeles, MiRO, Ponca City, Sweeny and Wood River, with portfolio awareness of the Santa Maria site as part of the company's refinery asset history/transition. The work supported technology and investment visibility across refinery operations where reliability, turnaround execution, operational technology, cybersecurity, data, applications, infrastructure and capital discipline intersect.
+Served as Senior Program Manager, Continuous Improvement, supporting enterprise technology portfolio management and project controls across Phillips 66's Refining and broader downstream operating environment. The role connected refinery technology investment, IT financial management, portfolio governance, forecasting, resource planning and continuous improvement with executive decision-making.
 
-The program-management focus included:
-
-- refinery and downstream IT portfolio visibility, prioritization and investment governance
-- technology roadmaps supporting operational reliability, safety, maintenance, engineering and business operations
-- project controls spanning scope, schedule, budget, forecast, resources, risks, dependencies and milestones
-- executive portfolio dashboards and L1-L3 reporting
-- long-range planning and annual investment-cycle support
-- project financial controls, forecast accuracy and variance analysis
-- resource-capacity and utilization reporting
-- audit, governance and portfolio-data-quality reporting
-- ServiceNow, Azure DevOps, Excel, SAP, Power BI and Project Online data alignment
-- continuous-improvement initiatives aimed at simplifying processes, reducing manual reporting and improving decision speed
-
-#### IT budget management & project controls
-Managed and improved the processes used to understand IT investment demand, budgets, forecasts, actuals, resource consumption and delivery performance. Developed executive reporting that connected financial information to project execution so leaders could see where programs were over/under forecast, where resources were constrained and where intervention was required.
-
-Key capabilities included budget planning, forecast-to-actual variance, cost controls, resource utilization, schedule/milestone health, risk and dependency tracking, portfolio prioritization, executive scorecards, auditability and investment governance.
-
-#### Custom Microsoft-based forecasting solution
-Helped design and build a custom forecasting and variance-management capability using the Microsoft technology ecosystem, including Power BI/Excel-oriented analytics and enterprise data integration. The solution consolidated project and financial information from multiple systems to improve forecast accuracy, variance visibility and executive decision-making.
-
-The forecasting model supported:
-
-- budget vs. forecast vs. actual analysis
-- monthly forecast variance and trend visibility
-- project/program drilldowns
-- resource and labor-cost visibility
-- exception-based management reporting
-- executive dashboards and portfolio rollups
-- reconciliation of information across systems such as ServiceNow, Azure DevOps, Excel and SAP
-
-This reduced dependence on fragmented manual reporting and created a more consistent portfolio-management view for leadership.
-
-#### SPM / Demand Management vendor selection
-Led a structured evaluation of Strategic Portfolio Management (SPM) / Demand Management platforms to identify a scalable successor/enterprise solution for portfolio intake, prioritization, planning, governance and reporting. The evaluation included ServiceNow SPM, Fluid and Planisware, with ServiceNow and Fluid among the leading contenders during the selection process.
-
-The vendor-selection process included:
-
-1. documenting business, PMO, finance, demand-management and reporting requirements
-2. defining weighted evaluation criteria and scoring methodology
-3. coordinating vendor demonstrations and solution deep dives
-4. evaluating demand intake, portfolio prioritization, roadmapping, financial management, resource management, workflow, reporting and integration capabilities
-5. assessing fit with the existing enterprise technology landscape
-6. comparing implementation complexity, configurability, user experience, scalability, integration and total cost of ownership
-7. consolidating stakeholder scoring and identifying functional gaps/tradeoffs
-8. presenting findings and recommendations to leadership for decision-making
-
-This work demonstrates hands-on ownership of a technology-selection lifecycle rather than simply participating in product demonstrations.
-
-#### Continuous improvement & operating model
-Applied continuous-improvement principles to portfolio governance and project delivery, identifying opportunities to standardize processes, automate reporting, improve data quality, strengthen accountability and reduce administrative effort. Initiatives included Portfolio Dashboards L1-L3, Forecast Variance reporting, SRB reporting, Resource Utilization reporting, Audit reporting, ServiceNow Phase 2, Unified Data Model work and Project Online remediation/deprecation planning.
-
-The objective was to move portfolio management from fragmented reporting toward a single, decision-oriented operating model connecting strategy, demand, funding, capacity, execution, risk and outcomes.
-
-#### M&A, integration and portfolio transformation context
-Supported the technology and portfolio environment during a period of significant Phillips 66 portfolio transformation. Since 2024, major transactions affecting the operating landscape have included the Pinnacle Midstream acquisition, the EPIC NGL acquisition (subsequently renamed Coastal Bend), and Phillips 66's acquisition of the remaining 50% interest in WRB Refining, bringing full ownership of the Wood River and Borger refineries. The broader transformation also included expansion of Dos Picos II and integration of acquired assets into Phillips 66's wellhead-to-market and downstream value chain.
-
-The environment required disciplined integration thinking across technology, applications, infrastructure, data, cybersecurity, financial planning, governance, project prioritization and operating-model alignment as acquired assets and organizations were brought into the broader enterprise portfolio.
-
-#### JET divestiture / portfolio separation context
-The transformation portfolio also included the JET-branded Germany and Austria retail business divestiture, where Phillips 66 agreed to divest a 65% majority interest while retaining a 35% non-operated interest. From a technology-program perspective, transactions of this scale require separation and transition planning across applications, data, infrastructure, cybersecurity, identity/access, vendor contracts, financial systems, support models and business continuity.
-
-This experience strengthened my ability to operate where technology portfolio management, M&A/divestiture execution, refinery/downstream operations and enterprise transformation converge.
-
-#### Refining + technology leadership
-The Phillips 66 assignment demonstrates the ability to work beyond conventional IT project management: understanding how refinery reliability, operational performance, capital discipline, technology modernization, project controls and continuous improvement come together in a large integrated energy company.
+Key work included Portfolio Dashboards L1-L3, Forecast Variance reporting, SRB reporting, Resource Utilization, Audit reporting, ServiceNow Phase 2, Unified Data Model work spanning ServiceNow/Azure DevOps/Excel/SAP, Project Online remediation/deprecation planning, long-range planning, IT budget and forecast controls, and SPM/Demand Management vendor evaluation involving ServiceNow SPM, Fluid and Planisware.
 
 ### Entergy / ComTec — Agile Salesforce Multi-Cloud Delivery
-Worked with ComTec on end-to-end Agile delivery of a major Entergy Salesforce transformation supporting a large-scale customer environment. The program spanned Service Cloud, Community / Experience Cloud and Marketing Cloud, connecting customer-service capabilities with broader metering, outage-management and digital customer-engagement processes.
 
-The engagement was managed across the full delivery lifecycle—from discovery and backlog formation through development, testing, release and operational transition. Responsibilities included translating business objectives into epics/features/user stories; grooming and refining 2,500+ user stories; establishing acceptance criteria and dependency sequencing; facilitating backlog refinement, sprint planning, daily execution, demos and retrospectives; coordinating onshore/offshore Salesforce developers, architects, QA, integration teams, product owners and business SMEs; driving SIT/UAT and defect triage; managing release/cutover and post-production stabilization; and tracking velocity, backlog health, risks, milestones and executive delivery KPIs.
+Led end-to-end Agile delivery across Service Cloud, Experience / Community Cloud and Marketing Cloud in a large-scale customer environment. Responsibilities included translating business objectives into epics/features/user stories; grooming and refining 2,500+ user stories; acceptance criteria and dependency sequencing; sprint ceremonies; coordination of onshore/offshore developers, architects, QA, integration teams, product owners and SMEs; SIT/UAT; defect triage; release/cutover; stabilization; and executive delivery KPIs.
 
-### Airbnb — MHIL (Minimizing Humans in the Loop) Autonomous Trust & Safety Program
-Developed and led MHIL — Minimizing Humans in the Loop, an AI/ML-driven investigation automation program supporting Airbnb's platform trust, safety and security objectives. The program focused on increasing autonomous detection and investigation of suspicious activity while reducing repetitive manual review and preserving human intervention for ambiguous, exceptional or high-risk cases.
+### Airbnb — MHIL Autonomous Trust & Safety Program
 
-The business objective was to help protect the platform and its users from bad actors, fraudulent or fake listings, phishing and social-engineering scams, account and transaction abuse, and attempts to obtain or misuse sensitive financial information.
-
-The MHIL operating model was intentionally human-on-the-loop rather than human-in-every-loop: automation handled repeatable, sufficiently confident investigative decisions, while investigators concentrated on exceptions, emerging attack patterns and cases requiring judgment. Delivery covered use-case discovery, process mapping, requirements, ML/data dependencies, investigation logic, confidence thresholds, exception handling, testing, production deployment, monitoring and iterative optimization.
+Developed and led MHIL — Minimizing Humans in the Loop, an AI/ML-driven investigation automation program supporting platform trust, safety and security objectives. The program increased autonomous detection and investigation of suspicious activity while preserving human judgment for ambiguous, exceptional or high-risk cases. Delivery covered use-case discovery, process mapping, ML/data dependencies, investigation logic, confidence thresholds, exception handling, testing, deployment, monitoring and optimization.
 
 ### AmerisourceBergen / Cencora — Agentforce
-Led program delivery involving Salesforce Agentforce, Salesforce Voice and MuleSoft, coordinating AI-enabled customer-service capabilities, integrations, delivery dependencies, testing, operational readiness and cross-functional execution.
 
-## Cybersecurity Transformation — CMMC Level 2
+Led program delivery involving Salesforce Agentforce, Salesforce Voice and MuleSoft, coordinating AI-enabled customer-service capabilities, integrations, testing, operational readiness and cross-functional execution.
 
-### ABS — CMMC L2 Compliance Program
-Led CMMC Level 2 readiness from initiation through end-to-end compliance execution, aligning the program to NIST SP 800-171 requirements and coordinating cybersecurity, infrastructure, control owners, business stakeholders and leadership. Responsibilities included control assessment and remediation, SSP and POA&M governance, evidence collection/validation, technical and procedural gap remediation, assessment readiness, risks, dependencies, milestones and executive reporting.
+### ABS — CMMC Level 2 / NIST SP 800-171
 
-## Global Grid Automation & Network Control Leadership
+Led CMMC Level 2 readiness aligned to NIST SP 800-171, coordinating control assessment and remediation, SSP and POA&M governance, evidence collection/validation, technical and procedural gaps, assessment readiness, risks, dependencies, milestones and executive reporting.
 
-### Hitachi Energy — Head of Global Network Controls
-Led global Network Control / Grid Automation program and PMO activities supporting mission-critical utility technology and digital-grid capabilities. Managed international delivery across major engineering and technology centers, including ENSO-E in Poland and JIEMS in Japan, coordinating geographically distributed engineering, product, delivery and leadership teams. Key areas included Lumada, utility control and grid-management technology, global engineering coordination, portfolio roadmaps, milestones, budgets, resources, risks, executive KPI reporting and operational readiness.
+### Hitachi Energy — Global Network Controls / Grid Automation
+
+Led global Network Control / Grid Automation program and PMO activities supporting mission-critical utility technology and digital-grid capabilities. Managed international delivery across engineering and technology centers, including ENSO-E in Poland and JIEMS in Japan, with portfolio roadmaps, milestones, budgets, resources, risks, executive KPIs and operational readiness.
 
 ## Featured Portfolio
 
-### [Salesforce Transformation Case Study](https://github.com/mannyedore-lang/salesforce-transformation-case-study)
-Hands-on and program-leadership case study covering Salesforce development, Apex/LWC/Flow engineering lifecycle, integration architecture, CI/CD, multi-cloud delivery, AI/Einstein and Agentforce exposure, enterprise Agile delivery, workflow automation, adoption, release quality, governance and value realization.
-
-### [AI Program Delivery Dashboard](https://github.com/mannyedore-lang/ai-program-delivery-dashboard)
-Executive AI portfolio dashboard covering autonomous AI/ML delivery, program health, budget, milestones, dependencies, high-severity risks, launch readiness and value realization.
-
-### [Enterprise PMO Portfolio Analytics](https://github.com/mannyedore-lang/enterprise-pmo-portfolio-analytics)
-Executive portfolio scorecard directly aligned to experience in IT budget management, forecasting, project controls, resource utilization, portfolio governance and continuous improvement.
-
-### [Cybersecurity Risk & Remediation Tracker](https://github.com/mannyedore-lang/cybersecurity-risk-remediation-tracker)
-Security program dashboard aligned to experience managing CMMC L2 / NIST SP 800-171 readiness, remediation ownership, evidence readiness, due-date governance and executive escalation.
+- [Salesforce Transformation Case Study](https://github.com/mannyedore-lang/salesforce-transformation-case-study) — Salesforce development, Apex/LWC/Flow, integration architecture, CI/CD, multi-cloud delivery, AI/Einstein, Agentforce, Agile delivery and value realization.
+- [AI Program Delivery Dashboard](https://github.com/mannyedore-lang/ai-program-delivery-dashboard) — autonomous AI/ML delivery, program health, budget, milestones, dependencies, risks and launch readiness.
+- [Enterprise PMO Portfolio Analytics](https://github.com/mannyedore-lang/enterprise-pmo-portfolio-analytics) — IT budget management, forecasting, project controls, resource utilization and portfolio governance.
+- [Cybersecurity Risk & Remediation Tracker](https://github.com/mannyedore-lang/cybersecurity-risk-remediation-tracker) — CMMC L2 / NIST SP 800-171 readiness, remediation ownership, evidence readiness and executive escalation.
 
 ## Technical & Program Capabilities
 
-Energy / Refining Technology: Refinery Technology | Downstream IT | Operational Reliability | Portfolio Investment Governance | Project Controls | Continuous Improvement | M&A / Divestiture Technology | Integration Planning
+**Salesforce & AI:** Apex | LWC | Flow | SOQL | Einstein | Agentforce | Salesforce Voice | Field Service | Service Cloud | Experience Cloud | Marketing Cloud | Industries/Vlocity | OmniStudio | Data Cloud | APIs | MuleSoft | Salesforce DX / CLI | Git | CI/CD | SIT/UAT
 
-Portfolio / Financial Management: IT Budget Management | Forecasting | Budget vs. Actual | Variance Analysis | Resource Utilization | Long-Range Planning | Portfolio Prioritization | Executive Dashboards | Power BI | Excel | SAP
+**Financial Services / Wealth Management:** Financial Advice Technology | Wealth Management Desktop | Vendor Selection | Portfolio Roadmaps | Risk & Controls | Advisor Workflows | Enterprise Platform Integration
 
-SPM / PPM: ServiceNow SPM | Fluid | Planisware | Project Online | Demand Management | Portfolio Intake | Roadmaps | Resource Management | Vendor Evaluation / Selection
+**Energy / Sustainability:** Refinery Technology | Corporate Emissions Reporting | Sustainability Data | Downstream IT | Operational Reliability | Portfolio Investment Governance | Project Controls | Continuous Improvement | M&A / Divestiture Technology
 
-Salesforce & AI: Apex | Apex Triggers | Lightning Web Components | Lightning | Flow | SOQL | Einstein | Agentforce | Salesforce Voice | Field Service | Service Cloud | Experience / Community Cloud | Marketing Cloud | Industries/Vlocity | OmniStudio | OmniScript | Integration Procedures | Data Cloud | APIs | MuleSoft | Salesforce DX / CLI | Git | CI/CD | SIT/UAT
+**Portfolio / Financial Management:** IT Budget Management | Forecasting | Budget vs. Actual | Variance Analysis | Resource Utilization | Long-Range Planning | Portfolio Prioritization | Executive Dashboards | Power BI | Excel | SAP
 
-AI / Autonomous Delivery: AI-Driven Automation | ML Program Delivery | Autonomous Workflows | MHIL | Human-on-the-Loop Governance | Trust & Safety Automation | Fraud / Platform-Abuse Detection | AI Operationalization
+**Cybersecurity / Risk:** CMMC Level 2 | NIST SP 800-171 | Asset & Risk Management | Control Assessment | SSP / POA&M | Evidence Readiness | Risk Remediation | CISM | CRISC
 
-Cybersecurity: CMMC Level 2 | NIST SP 800-171 | Control Assessment | SSP / POA&M Governance | Evidence Readiness | Risk Remediation | CISM | CRISC
+**Energy / Industrial Technology:** Grid Automation | Network Control | Lumada | OT / Industrial Systems | Utility Technology | Global Engineering Delivery
 
-Energy / Industrial Technology: Grid Automation | Network Control | Lumada | OT / Industrial Systems | Utility Technology | Global Engineering Delivery
-
-Program Leadership: Technical Program Management | Portfolio & PMO Governance | Agile / Scrum / SAFe | Roadmaps | Budget & Forecasting | Vendor Management | Risk & Dependency Management | Executive KPI Reporting | Production Readiness | Global Cross-functional Leadership
+**Program Leadership:** Technical Program Management | Portfolio & PMO Governance | Agile / Scrum / SAFe | Roadmaps | Budget & Forecasting | Vendor Management | Risk & Dependency Management | Executive KPI Reporting | Production Readiness | Global Cross-functional Leadership
 
 ## Certifications
 
@@ -172,7 +119,7 @@ PMP | CSM | CSPO | SAFe | AWS Solutions Architect | Salesforce Administrator | C
 
 ## Portfolio Principles
 
-All examples are designed for professional demonstration. Synthetic or illustrative data is used where appropriate, and no confidential employer, client, security, or proprietary production data is included. Public corporate transaction and refinery context is presented as operating-environment context and should not be interpreted as a claim of personal ownership of every corporate transaction.
+All examples are designed for professional demonstration. Synthetic or illustrative data is used where appropriate, and no confidential employer, client, security or proprietary production data is included. Public corporate figures and historical context are presented to show operating scale and should not be interpreted as a claim of personal ownership of corporate results.
 
 ## Connect
 
