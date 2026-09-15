@@ -60,8 +60,6 @@ The operating model treated emissions reporting as a governed data program rathe
 
 The schedule supported stronger accountability around data lineage, completeness, timeliness, quality assurance and executive reporting. It also reinforced the connection between sustainability / environmental reporting and the underlying operating data generated across large industrial assets.
 
-Public company context from 2015 provides scale for the environment: ExxonMobil reported approximately 122 million metric tons of net-equity greenhouse-gas emissions (CO2e) for that year. This public figure is included only to illustrate enterprise scale and is not presented as a metric personally owned or produced by me.
-
 ### State Farm — Asset & Risk Management Roadmap and Inventory | 2015
 
 Developed asset and risk-management roadmap and inventory work in a State Farm environment, helping establish clearer visibility into technology assets, ownership, lifecycle considerations, risk exposure, dependencies and remediation priorities. The work connected asset inventory discipline with risk-based planning so leadership could better understand what existed, who owned it, where exposure was concentrated and what actions should be prioritized.
