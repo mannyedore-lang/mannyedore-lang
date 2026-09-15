@@ -1,8 +1,22 @@
 # Emmanuel Edore Asekhame
 
+## 21+ Years of Enterprise Technology Leadership | Selected Transformation Portfolio: 2005–2026
+
 Technology Executive | Technical Program Manager | Salesforce & AI Transformation | Financial Services | Energy & Refining Technology | Cybersecurity / CMMC | Grid Automation | PMO | Cloud
 
-Technology and transformation leader with 21+ years of experience delivering complex global programs across Salesforce/CRM, AI and autonomous automation, financial services and wealth management, refinery and energy technology, sustainability data, cybersecurity, cloud, industrial technology, grid automation, enterprise platforms, and digital operations.
+This GitHub is a curated executive technology portfolio documenting selected programs, transformation initiatives, delivery frameworks and technical case studies from a 21+ year professional career. It is designed to show the progression of my work across enterprise technology—not the age of this GitHub account.
+
+My experience spans complex global programs across Salesforce/CRM, AI and autonomous automation, financial services and wealth management, refinery and energy technology, sustainability data, cybersecurity, cloud, industrial technology, grid automation, enterprise platforms and digital operations.
+
+### Career Portfolio at a Glance
+
+**2005–2014:** Enterprise technology, infrastructure, operations, program delivery and the foundation for large-scale transformation leadership.
+
+**2015–2017:** Asset and risk management, enterprise data, governance and technology-roadmap initiatives, including State Farm asset/risk inventory work and ExxonMobil corporate emissions/data reporting scheduling.
+
+**2018–2022:** Salesforce and CRM transformation, global delivery, M&A data migration, Experience Cloud, Field Service, integration, localization and enterprise Agile programs—including JLL, CBRE / Trammell Crow integration work, Entergy and other enterprise environments.
+
+**2023–2026:** AI-enabled transformation, Agentforce, autonomous workflows, cybersecurity/CMMC, refinery technology, enterprise PMO/portfolio analytics, financial-services technology, grid automation and global program leadership.
 
 ## Salesforce Development, AI & Program Leadership
 
@@ -117,7 +131,7 @@ PMP | CSM | CSPO | SAFe | AWS Solutions Architect | Salesforce Administrator | C
 
 ## Portfolio Principles
 
-All examples are designed for professional demonstration. Synthetic or illustrative data is used where appropriate, and no confidential employer, client, security or proprietary production data is included. Public corporate figures and historical context are presented to show operating scale and should not be interpreted as a claim of personal ownership of corporate results.
+This repository is a curated professional portfolio. The dates shown refer to the underlying career experience and programs represented—not when they were documented on GitHub. Synthetic or illustrative data is used where appropriate, and no confidential employer, client, security or proprietary production data is included.
 
 ## Connect
 
