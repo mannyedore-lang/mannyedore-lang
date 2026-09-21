@@ -72,6 +72,30 @@ Served as Senior Program Manager, Continuous Improvement, supporting enterprise 
 
 Key work included Portfolio Dashboards L1-L3, Forecast Variance reporting, SRB reporting, Resource Utilization, Audit reporting, ServiceNow Phase 2, Unified Data Model work spanning ServiceNow/Azure DevOps/Excel/SAP, Project Online remediation/deprecation planning, long-range planning, IT budget and forecast controls, and SPM/Demand Management vendor evaluation involving ServiceNow SPM, Fluid and Planisware.
 
+### Davenport TPL — Oilfield Services, Piping, Valves & Project Controls
+
+Davenport TPL supports oil and gas operators and project owners with field-ready equipment supply, technical coordination and project delivery from early discovery through stable production operations. The company’s work is organized around safe, traceable materials; dependable field execution; and disciplined schedule control.
+
+**Core capabilities**
+
+- **Emerson valves and actuators:** specification support, sourcing coordination, valve/actuator packages, control and isolation applications, documentation review, MTR/COO traceability, QA/QC coordination, and logistics planning.
+- **Piping and mechanical materials:** carbon steel and stainless-steel pipe, flanges, fittings, gaskets, fasteners, pipe supports, valves, tubing and related mechanical BOM packages for processing, gathering, gas and facility projects.
+- **Oilfield and drilling-rig services:** drilling-rig sourcing and support, land-rig packages, BOP and drilling-equipment coordination, field-service planning, equipment mobilization, repair/maintenance coordination, and supply of project-critical parts and consumables.
+- **Project controls:** integrated project schedules, critical-path management, work-breakdown structures, resource and procurement tracking, milestone reporting, risk/dependency management, progress measurement and recovery planning using **Primavera P6** and **Microsoft Project**.
+
+**End-to-end oil discovery-to-production delivery model**
+
+1. **Prospecting and basin evaluation** — support geologic, geophysical and commercial screening to identify prospective acreage and define exploration objectives.  
+2. **Seismic acquisition and interpretation** — plan surveys, process seismic data, map subsurface structures and mature drillable prospects.  
+3. **Exploration drilling** — mobilize the drilling rig, drill the well, manage directional drilling and drilling fluids, log formations, and maintain well-control readiness.  
+4. **Well evaluation and appraisal** — analyze cores, logs and well-test data; confirm hydrocarbon presence, estimate reservoir quality, and drill appraisal wells where needed.  
+5. **Field-development planning** — select the development concept; define wells, gathering systems, pipelines, facilities, produced-water handling, export routes, costs, risks and the execution schedule.  
+6. **Engineering, procurement and construction** — develop specifications and mechanical BOMs; procure piping, Emerson valves/actuators and related materials; manage fabrication, QA/QC, MTRs, logistics, construction and installation.  
+7. **Completion, tie-in and commissioning** — complete and stimulate wells as required; install flowlines and production equipment; complete pressure testing, mechanical completion, loop checks, commissioning and start-up.  
+8. **Production operations and optimization** — monitor production, maintain rotating and static equipment, manage integrity and reliability, optimize artificial lift and flow assurance, and plan interventions or workovers to sustain safe production.
+
+Davenport TPL combines materials readiness, equipment coordination and schedule discipline so operators can move from concept through construction, commissioning and production with clearer accountability across the delivery chain.
+
 ### Entergy / ComTec — Agile Salesforce Multi-Cloud Delivery
 
 Led end-to-end Agile delivery across Service Cloud, Experience / Community Cloud and Marketing Cloud in a large-scale customer environment. Responsibilities included translating business objectives into epics/features/user stories; grooming and refining 2,500+ user stories; acceptance criteria and dependency sequencing; sprint ceremonies; coordination of onshore/offshore developers, architects, QA, integration teams, product owners and SMEs; SIT/UAT; defect triage; release/cutover; stabilization; and executive delivery KPIs.
@@ -119,7 +143,7 @@ Led global Network Control / Grid Automation program and PMO activities supporti
 
 **CRM / M&A Data Transformation:** Salesforce Data Migration | Opportunities & Contacts | Source-to-Target Mapping | Data Cleansing | Reconciliation | Localization & Translation | Global Rollout | M&A Integration
 
-**Energy / Industrial Technology:** Grid Automation | Network Control | Lumada | OT / Industrial Systems | Utility Technology | Global Engineering Delivery
+**Energy / Industrial Technology:** Oilfield Services | Drilling Rigs | Emerson Valves & Actuators | Piping & Mechanical Materials | Primavera P6 | Microsoft Project | Grid Automation | Network Control | Lumada | OT / Industrial Systems | Utility Technology | Global Engineering Delivery
 
 **Program Leadership:** Technical Program Management | Portfolio & PMO Governance | Agile / Scrum / SAFe | Roadmaps | Budget & Forecasting | Vendor Management | Risk & Dependency Management | Executive KPI Reporting | Production Readiness | Global Cross-functional Leadership
 
