@@ -74,34 +74,16 @@ Key work included Portfolio Dashboards L1-L3, Forecast Variance reporting, SRB r
 
 ### Davenport TPL — Oilfield Services, Piping, Valves & Project Controls
 
-Davenport TPL supports oil and gas operators and project owners with field-ready equipment supply, technical coordination and project delivery from early discovery through stable production operations. The company’s work is organized around safe, traceable materials; dependable field execution; and disciplined schedule control.
+Managed oil-and-gas equipment, materials and project-delivery workstreams from design through delivery, installation readiness and production support.
 
-**Core capabilities**
+- **RAN Acrette FPSO design:** managed design coordination, equipment packages, vendor interfaces, deliverables and schedule readiness.
+- **NextEra Energy:** managed valve packages for an RNG plant, including sourcing, MTR/COO documentation, QA/QC, logistics and delivery readiness.
+- **Heritage:** managed valve-supply coordination, specifications, inspection/documentation, shipment and delivery follow-through.
+- **Water separation:** coordinated produced-water separation/treatment equipment and its mechanical, piping and installation interfaces.
 
-**Selected Davenport TPL delivery leadership**
+**Capabilities:** Emerson valves and actuators; carbon and stainless-steel pipe, flanges, fittings, gaskets, fasteners and pipe supports; drilling-rig and oilfield-service support; Primavera P6 and Microsoft Project scheduling, critical-path, procurement, risk and milestone management.
 
-- **RAN Acrette FPSO design:** managed FPSO design coordination, engineering interfaces, equipment-package definition, vendor engagement, design deliverables, schedule alignment and execution readiness for a floating production solution.
-- **NextEra Energy valve packages:** managed valve sourcing, technical and commercial coordination, documentation/MTR review, country-of-origin compliance, QA/QC planning, logistics and delivery readiness for renewable-natural-gas plant mechanical material packages.
-- **Heritage valve packages:** managed the valve-supply workstream, including specification alignment, vendor coordination, quality documentation, inspection planning, shipment coordination and delivery follow-through for upstream oil and gas operations.
-- **Water-separation systems:** managed the definition and delivery coordination of produced-water separation and treatment equipment, integrating mechanical requirements, piping interfaces, operating needs, vendor documentation and installation planning.
-
-- **Emerson valves and actuators:** specification support, sourcing coordination, valve/actuator packages, control and isolation applications, documentation review, MTR/COO traceability, QA/QC coordination, and logistics planning.
-- **Piping and mechanical materials:** carbon steel and stainless-steel pipe, flanges, fittings, gaskets, fasteners, pipe supports, valves, tubing and related mechanical BOM packages for processing, gathering, gas and facility projects.
-- **Oilfield and drilling-rig services:** drilling-rig sourcing and support, land-rig packages, BOP and drilling-equipment coordination, field-service planning, equipment mobilization, repair/maintenance coordination, and supply of project-critical parts and consumables.
-- **Project controls:** integrated project schedules, critical-path management, work-breakdown structures, resource and procurement tracking, milestone reporting, risk/dependency management, progress measurement and recovery planning using **Primavera P6** and **Microsoft Project**.
-
-**End-to-end oil discovery-to-production delivery model**
-
-1. **Prospecting and basin evaluation** — support geologic, geophysical and commercial screening to identify prospective acreage and define exploration objectives.  
-2. **Seismic acquisition and interpretation** — plan surveys, process seismic data, map subsurface structures and mature drillable prospects.  
-3. **Exploration drilling** — mobilize the drilling rig, drill the well, manage directional drilling and drilling fluids, log formations, and maintain well-control readiness.  
-4. **Well evaluation and appraisal** — analyze cores, logs and well-test data; confirm hydrocarbon presence, estimate reservoir quality, and drill appraisal wells where needed.  
-5. **Field-development planning** — select the development concept; define wells, gathering systems, pipelines, facilities, produced-water handling, export routes, costs, risks and the execution schedule.  
-6. **Engineering, procurement and construction** — develop specifications and mechanical BOMs; procure piping, Emerson valves/actuators and related materials; manage fabrication, QA/QC, MTRs, logistics, construction and installation.  
-7. **Completion, tie-in and commissioning** — complete and stimulate wells as required; install flowlines and production equipment; complete pressure testing, mechanical completion, loop checks, commissioning and start-up.  
-8. **Production operations and optimization** — monitor production, maintain rotating and static equipment, manage integrity and reliability, optimize artificial lift and flow assurance, and plan interventions or workovers to sustain safe production.
-
-Davenport TPL combines materials readiness, equipment coordination and schedule discipline so operators can move from concept through construction, commissioning and production with clearer accountability across the delivery chain.
+**Discovery-to-production support:** prospect evaluation and seismic; exploration/appraisal drilling; field-development planning; engineering/procurement/construction; well completion and tie-in; commissioning; and production optimization, integrity and maintenance.
 
 ### Entergy / ComTec — Agile Salesforce Multi-Cloud Delivery
 
