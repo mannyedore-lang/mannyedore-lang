@@ -10,7 +10,7 @@ My experience spans complex global programs across Salesforce/CRM, AI and autono
 
 ### Career Portfolio at a Glance
 
-**2005–2014:** Enterprise technology, infrastructure, operations, program delivery and the foundation for large-scale transformation leadership.
+**2005–2014:** Computer software and hardware sales, enterprise technology, infrastructure, operations, program delivery and the foundation for large-scale transformation leadership.
 
 **2015–2017:** Asset and risk management, enterprise data, governance and technology-roadmap initiatives, including State Farm asset/risk inventory work and ExxonMobil corporate emissions/data reporting scheduling.
 
