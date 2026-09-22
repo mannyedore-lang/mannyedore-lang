@@ -76,10 +76,10 @@ Key work included Portfolio Dashboards L1-L3, Forecast Variance reporting, SRB r
 
 Managed oil-and-gas equipment, materials and project-delivery workstreams from design through delivery, installation readiness and production support.
 
-- **RAN Acrette FPSO design:** managed design coordination, equipment packages, vendor interfaces, deliverables and schedule readiness.
+- **Rano Accrette FPSO design:** managed design coordination, equipment packages, vendor interfaces, deliverables and schedule readiness.
 - **NextEra Energy:** managed valve packages for an RNG plant, including sourcing, MTR/COO documentation, QA/QC, logistics and delivery readiness.
 - **Heritage:** managed valve-supply coordination, specifications, inspection/documentation, shipment and delivery follow-through.
-- **Water separation:** coordinated produced-water separation/treatment equipment and its mechanical, piping and installation interfaces.
+- **Midwestern water-separation design:** managed the design coordination for produced-water separation and treatment systems, including process/mechanical requirements, equipment selection, piping interfaces, vendor design deliverables and installation readiness.
 
 **Capabilities:** Emerson valves and actuators; carbon and stainless-steel pipe, flanges, fittings, gaskets, fasteners and pipe supports; drilling-rig and oilfield-service support; Primavera P6 and Microsoft Project scheduling, critical-path, procurement, risk and milestone management.
 
