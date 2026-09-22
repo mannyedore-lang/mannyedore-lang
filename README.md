@@ -78,6 +78,13 @@ Davenport TPL supports oil and gas operators and project owners with field-ready
 
 **Core capabilities**
 
+**Selected Davenport TPL delivery leadership**
+
+- **RAN Acrette FPSO design:** managed FPSO design coordination, engineering interfaces, equipment-package definition, vendor engagement, design deliverables, schedule alignment and execution readiness for a floating production solution.
+- **NextEra Energy valve packages:** managed valve sourcing, technical and commercial coordination, documentation/MTR review, country-of-origin compliance, QA/QC planning, logistics and delivery readiness for renewable-natural-gas plant mechanical material packages.
+- **Heritage valve packages:** managed the valve-supply workstream, including specification alignment, vendor coordination, quality documentation, inspection planning, shipment coordination and delivery follow-through for upstream oil and gas operations.
+- **Water-separation systems:** managed the definition and delivery coordination of produced-water separation and treatment equipment, integrating mechanical requirements, piping interfaces, operating needs, vendor documentation and installation planning.
+
 - **Emerson valves and actuators:** specification support, sourcing coordination, valve/actuator packages, control and isolation applications, documentation review, MTR/COO traceability, QA/QC coordination, and logistics planning.
 - **Piping and mechanical materials:** carbon steel and stainless-steel pipe, flanges, fittings, gaskets, fasteners, pipe supports, valves, tubing and related mechanical BOM packages for processing, gathering, gas and facility projects.
 - **Oilfield and drilling-rig services:** drilling-rig sourcing and support, land-rig packages, BOP and drilling-equipment coordination, field-service planning, equipment mobilization, repair/maintenance coordination, and supply of project-critical parts and consumables.
