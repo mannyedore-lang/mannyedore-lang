@@ -44,6 +44,18 @@ Provided CRM consulting in support of aerospace-technology initiatives for the 7
 
 Provided diplomatic liaison support during the African Lion exercise in Agadir and Tan-Tan, Morocco, working with the 344th Multifunctional Medical Battalion (MMB). Coordinated with multinational and host-nation stakeholders to support communication, relationship management, operational alignment and mission readiness.
 
+### U.S. Army Reserve — Aviation JP-8 Supply & Logistics, 90th ASB | Arlington, Texas
+
+Supported JP-8 aviation-fuel supply and logistics for the 90th Aviation Support Battalion (ASB), including fuel planning, receipt, storage, distribution, accountability, movement coordination and readiness support for aviation operations.
+
+### U.S. Army Reserve — Transportation Logistics, 103rd | Houston, Texas
+
+Supported transportation logistics for the 103rd in Houston, coordinating mission movement, equipment and personnel transportation, scheduling, accountability and operational readiness across supporting stakeholders.
+
+### U.S. Army Reserve — Detachment Command, 107th & 121st Detachments
+
+Provided detachment command leadership for the 107th and 121st detachments, leading readiness, personnel coordination, mission planning, training, stakeholder engagement and unit operations.
+
 ### USAA — Financial Advice & Solutions Group Vendor Selection / Wealth Management Desktop
 
 Supported a Financial Advice & Solutions Group technology initiative focused on vendor evaluation and portfolio management for a wealth-management desktop environment. The work connected financial-advice business needs with technology selection, integration, user experience, data, risk, controls and delivery governance.
