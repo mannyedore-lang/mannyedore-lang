@@ -44,7 +44,7 @@ For a deeper technical walkthrough, see my [Salesforce Multi-Cloud Development &
 
 Provided CRM consulting in support of aerospace-technology initiatives for the 75th Innovation Command. Partnered with stakeholders to align CRM capabilities, intake and workflow requirements, data considerations, and delivery coordination for innovation-focused programs.
 
-### African Lion Exercise — Diplomatic Liaison, Morocco
+### <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Army_Reserve_Medical_Command_SSI.jpg?utm_campaign=index&amp;utm_content=original&amp;utm_source=commons.wikimedia.org" alt="Army Reserve Medical Command shoulder sleeve insignia" width="34"> <img src="https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/graphics/2504/35665/1000w_q95.jpg" alt="African Lion 2025 exercise seal" width="42"> African Lion Exercise — Diplomatic Liaison, Morocco
 
 Provided diplomatic liaison support during the African Lion exercise in Agadir and Tan-Tan, Morocco, working with the 344th Multifunctional Medical Battalion (MMB). Coordinated with multinational and host-nation stakeholders to support communication, relationship management, operational alignment and mission readiness.
 
@@ -60,7 +60,7 @@ Supported transportation logistics for the 103rd in Houston, coordinating missio
 
 Provided detachment command leadership for the 107th and 121st detachments, leading readiness, personnel coordination, mission planning, training, stakeholder engagement and unit operations.
 
-### USAA — Financial Advice & Solutions Group Vendor Selection / Wealth Management Desktop
+### <img src="https://www.google.com/s2/favicons?domain=usaa.com&amp;sz=128" alt="USAA logo" width="28" height="28"> USAA — Financial Advice & Solutions Group Vendor Selection / Wealth Management Desktop
 
 Supported a Financial Advice & Solutions Group technology initiative focused on vendor evaluation and portfolio management for a wealth-management desktop environment. The work connected financial-advice business needs with technology selection, integration, user experience, data, risk, controls and delivery governance.
 
@@ -76,7 +76,7 @@ Key responsibilities and portfolio themes included:
 
 The program strengthened my financial-services experience at the intersection of wealth management, vendor selection, portfolio governance, enterprise platforms and regulated technology delivery.
 
-### ExxonMobil — Corporate Emissions & Data Reporting Schedule
+### <img src="https://www.google.com/s2/favicons?domain=corporate.exxonmobil.com&amp;sz=128" alt="ExxonMobil logo" width="28" height="28"> ExxonMobil — Corporate Emissions & Data Reporting Schedule
 
 Created and coordinated a corporate emissions and data-reporting schedule supporting disciplined collection, validation, review and delivery of environmental / emissions information across a complex energy-enterprise environment.
 
@@ -84,19 +84,19 @@ The operating model treated emissions reporting as a governed data program rathe
 
 The schedule supported stronger accountability around data lineage, completeness, timeliness, quality assurance and executive reporting. It also reinforced the connection between sustainability / environmental reporting and the underlying operating data generated across large industrial assets.
 
-### State Farm — Asset & Risk Management Roadmap and Inventory | 2015
+### <img src="https://www.google.com/s2/favicons?domain=statefarm.com&amp;sz=128" alt="State Farm logo" width="28" height="28"> State Farm — Asset & Risk Management Roadmap and Inventory | 2015
 
 Developed asset and risk-management roadmap and inventory work in a State Farm environment, helping establish clearer visibility into technology assets, ownership, lifecycle considerations, risk exposure, dependencies and remediation priorities. The work connected asset inventory discipline with risk-based planning so leadership could better understand what existed, who owned it, where exposure was concentrated and what actions should be prioritized.
 
 Key areas included asset/inventory structure, ownership and accountability, risk categorization, dependency mapping, roadmap sequencing, lifecycle considerations, remediation tracking, governance and executive visibility.
 
-### Phillips 66 — Refinery Technology, IT Portfolio & Continuous Improvement
+### <img src="https://www.google.com/s2/favicons?domain=phillips66.com&amp;sz=128" alt="Phillips 66 logo" width="28" height="28"> Phillips 66 — Refinery Technology, IT Portfolio & Continuous Improvement
 
 Served as Senior Program Manager, Continuous Improvement, supporting enterprise technology portfolio management and project controls across Phillips 66's Refining and broader downstream operating environment. The role connected refinery technology investment, IT financial management, portfolio governance, forecasting, resource planning and continuous improvement with executive decision-making.
 
 Key work included Portfolio Dashboards L1-L3, Forecast Variance reporting, SRB reporting, Resource Utilization, Audit reporting, ServiceNow Phase 2, Unified Data Model work spanning ServiceNow/Azure DevOps/Excel/SAP, Project Online remediation/deprecation planning, long-range planning, IT budget and forecast controls, and SPM/Demand Management vendor evaluation involving ServiceNow SPM, Fluid and Planisware.
 
-### Davenport TPL — Oilfield Services, Piping, Valves & Project Controls
+### <img src="https://www.google.com/s2/favicons?domain=davenporttpl.com&amp;sz=128" alt="Davenport TPL logo" width="28" height="28"> Davenport TPL — Oilfield Services, Piping, Valves & Project Controls
 
 Managed oil-and-gas equipment, materials and project-delivery workstreams from design through delivery, installation readiness and production support.
 
@@ -109,29 +109,29 @@ Managed oil-and-gas equipment, materials and project-delivery workstreams from d
 
 **Discovery-to-production support:** prospect evaluation and seismic; exploration/appraisal drilling; field-development planning; engineering/procurement/construction; well completion and tie-in; commissioning; and production optimization, integrity and maintenance.
 
-### Entergy / ComTec — Agile Salesforce Multi-Cloud Delivery
+### <img src="https://www.google.com/s2/favicons?domain=entergy.com&amp;sz=128" alt="Entergy logo" width="28" height="28"> Entergy / ComTec — Agile Salesforce Multi-Cloud Delivery
 
 Led end-to-end Agile delivery across Service Cloud, Experience / Community Cloud and Marketing Cloud in a large-scale customer environment. Responsibilities included translating business objectives into epics/features/user stories; grooming and refining 2,500+ user stories; acceptance criteria and dependency sequencing; sprint ceremonies; coordination of onshore/offshore developers, architects, QA, integration teams, product owners and SMEs; SIT/UAT; defect triage; release/cutover; stabilization; and executive delivery KPIs.
 
-### JLL — Global Salesforce, M&A Data Migration & Localization
+### <img src="https://www.google.com/s2/favicons?domain=jll.com&amp;sz=128" alt="JLL logo" width="28" height="28"> JLL — Global Salesforce, M&A Data Migration & Localization
 
 Led Salesforce Community / Experience Cloud delivery across AMER, EMEA and APAC and supported complex CRM integration and data-migration activities associated with the CBRE / Trammell Crow integration environment. The work included migration of Salesforce opportunities and contacts, source-to-target mapping, data cleansing and transformation, duplicate management, reconciliation and validation, testing, cutover coordination and post-migration stabilization.
 
 The global rollout also required translation and localization coordination so Salesforce content, fields, workflows and user experiences could support different regional and language requirements while maintaining common enterprise data standards and governance. This experience combined Salesforce delivery with M&A integration, CRM data migration, data quality, global deployment and organizational change.
 
-### Airbnb — MHIL Autonomous Trust & Safety Program
+### <img src="https://www.google.com/s2/favicons?domain=airbnb.com&amp;sz=128" alt="Airbnb logo" width="28" height="28"> Airbnb — MHIL Autonomous Trust & Safety Program
 
 Developed and led MHIL — Minimizing Humans in the Loop, an AI/ML-driven investigation automation program supporting platform trust, safety and security objectives. The program increased autonomous detection and investigation of suspicious activity while preserving human judgment for ambiguous, exceptional or high-risk cases. Delivery covered use-case discovery, process mapping, ML/data dependencies, investigation logic, confidence thresholds, exception handling, testing, deployment, monitoring and optimization.
 
-### AmerisourceBergen / Cencora — Agentforce
+### <img src="https://www.google.com/s2/favicons?domain=cencora.com&amp;sz=128" alt="Cencora logo" width="28" height="28"> AmerisourceBergen / Cencora — Agentforce
 
 Led program delivery involving Salesforce Agentforce, Salesforce Voice and MuleSoft, coordinating AI-enabled customer-service capabilities, integrations, testing, operational readiness and cross-functional execution.
 
-### ABS — CMMC Level 2 / NIST SP 800-171
+### <img src="https://www.google.com/s2/favicons?domain=eagle.org&amp;sz=128" alt="American Bureau of Shipping logo" width="28" height="28"> ABS — CMMC Level 2 / NIST SP 800-171
 
 Led CMMC Level 2 readiness aligned to NIST SP 800-171, coordinating control assessment and remediation, SSP and POA&M governance, evidence collection/validation, technical and procedural gaps, assessment readiness, risks, dependencies, milestones and executive reporting.
 
-### Hitachi Energy — Global Network Controls / Grid Automation
+### <img src="https://www.google.com/s2/favicons?domain=hitachienergy.com&amp;sz=128" alt="Hitachi Energy logo" width="28" height="28"> Hitachi Energy — Global Network Controls / Grid Automation
 
 Led global Network Control / Grid Automation program and PMO activities supporting mission-critical utility technology and digital-grid capabilities. Managed international delivery across engineering and technology centers, including ENSO-E in Poland and JIEMS in Japan, with portfolio roadmaps, milestones, budgets, resources, risks, executive KPIs and operational readiness.
 
