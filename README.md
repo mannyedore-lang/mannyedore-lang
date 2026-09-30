@@ -22,7 +22,7 @@ My experience spans complex global programs across Salesforce/CRM, AI and autono
 
 I bring extensive Salesforce delivery experience spanning solution development, administration, AI-enabled CRM, integration, architecture coordination, release management, and enterprise program/project leadership. My Salesforce work has included Apex, Lightning Web Components, Salesforce Flow, Einstein, Agentforce, OmniStudio/OmniScript, Integration Procedures, SOQL, APIs, MuleSoft integration patterns, CI/CD/release governance, data migration, SIT/UAT, production readiness and enterprise adoption.
 
-### My Salesforce Story — From CRM Delivery to Agentic AI
+### <img src="https://www.google.com/s2/favicons?domain=salesforce.com&amp;sz=128" alt="Salesforce logo" width="30" height="30"> My Salesforce Story — From CRM Delivery to Agentic AI
 
 My Salesforce story has developed over roughly a decade of working with and around the platform as it evolved from enterprise CRM into a multi-cloud, integration, data and agentic-AI ecosystem. I have led programs where Salesforce was not simply an application—it was the customer and employee experience layer connecting business processes, data, APIs, cloud services and operational systems.
 
@@ -48,15 +48,15 @@ Provided CRM consulting in support of aerospace-technology initiatives for the 7
 
 Provided diplomatic liaison support during the African Lion exercise in Agadir and Tan-Tan, Morocco, working with the 344th Multifunctional Medical Battalion (MMB). Coordinated with multinational and host-nation stakeholders to support communication, relationship management, operational alignment and mission readiness.
 
-### U.S. Army Reserve — Aviation JP-8 Supply & Logistics, 90th ASB | Arlington, Texas
+### <a href="https://commons.wikimedia.org/wiki/File:90_Spt_Bn_DUI.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/90_Spt_Bn_DUI.jpg" alt="90th Aviation Support Battalion distinctive unit insignia" width="38"></a> U.S. Army Reserve — Aviation JP-8 Supply & Logistics, 90th ASB | Arlington, Texas
 
 Supported JP-8 aviation-fuel supply and logistics for the 90th Aviation Support Battalion (ASB), including fuel planning, receipt, storage, distribution, accountability, movement coordination and readiness support for aviation operations.
 
-### U.S. Army Reserve — Transportation Logistics, 103rd | Houston, Texas
+### <a href="https://foia.army.mil/Home/DocContent/1578"><img src="https://raw.githubusercontent.com/mannyedore-lang/mannyedore-lang/main/assets/103rd-transportation-battalion-insignia.svg" alt="103rd Transportation Battalion coat of arms" width="38"></a> U.S. Army Reserve — Transportation Logistics, 103rd | Houston, Texas
 
 Supported transportation logistics for the 103rd in Houston, coordinating mission movement, equipment and personnel transportation, scheduling, accountability and operational readiness across supporting stakeholders.
 
-### U.S. Army Reserve — Detachment Command, 107th & 121st Detachments
+### <a href="https://commons.wikimedia.org/wiki/File:Seal_of_the_United_States_Army_Chaplain_Corps.png"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Seal_of_the_United_States_Army_Chaplain_Corps.png?utm_campaign=index&amp;utm_content=original&amp;utm_source=commons.wikimedia.org" alt="U.S. Army Chaplain Corps seal" width="36"></a> U.S. Army Reserve — Detachment Command, 107th & 121st Chaplain Detachments
 
 Provided detachment command leadership for the 107th and 121st detachments, leading readiness, personnel coordination, mission planning, training, stakeholder engagement and unit operations.
 
