@@ -36,6 +36,10 @@ For a deeper technical walkthrough, see my [Salesforce Multi-Cloud Development &
 
 ## Selected Enterprise Transformation Programs
 
+<a href="https://commons.wikimedia.org/wiki/File:USAR_75th_IC_DUI.png">
+  <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/9/95/USAR_75th_IC_DUI.png?utm_campaign=index&utm_content=original&utm_source=commons.wikimedia.org" width="88" alt="75th Innovation Command distinctive unit insignia">
+</a>
+
 ### U.S. Department of Defense / 75th Innovation Command — Aerospace Technology CRM Consulting
 
 Provided CRM consulting in support of aerospace-technology initiatives for the 75th Innovation Command. Partnered with stakeholders to align CRM capabilities, intake and workflow requirements, data considerations, and delivery coordination for innovation-focused programs.
