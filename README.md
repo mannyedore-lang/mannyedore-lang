@@ -36,6 +36,14 @@ For a deeper technical walkthrough, see my [Salesforce Multi-Cloud Development &
 
 ## Selected Enterprise Transformation Programs
 
+### U.S. Department of Defense / 75th Innovation Command — Aerospace Technology CRM Consulting
+
+Provided CRM consulting in support of aerospace-technology initiatives for the 75th Innovation Command. Partnered with stakeholders to align CRM capabilities, intake and workflow requirements, data considerations, and delivery coordination for innovation-focused programs.
+
+### African Lion Exercise — Diplomatic Liaison, Morocco
+
+Provided diplomatic liaison support during the African Lion exercise in Agadir and Tan-Tan, Morocco, working with the 344th Multifunctional Medical Battalion (MMB). Coordinated with multinational and host-nation stakeholders to support communication, relationship management, operational alignment and mission readiness.
+
 ### USAA — Financial Advice & Solutions Group Vendor Selection / Wealth Management Desktop
 
 Supported a Financial Advice & Solutions Group technology initiative focused on vendor evaluation and portfolio management for a wealth-management desktop environment. The work connected financial-advice business needs with technology selection, integration, user experience, data, risk, controls and delivery governance.
