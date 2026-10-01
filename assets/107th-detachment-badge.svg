@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-labelledby="title desc">
+  <title id="title">107th Detachment portfolio badge</title>
+  <desc id="desc">Dedicated visual identifier for the 107th Detachment in this portfolio; not an Army-issued insignia.</desc>
+  <rect x="8" y="8" width="204" height="204" rx="28" fill="#172b4d" stroke="#d6ad52" stroke-width="7"/>
+  <circle cx="110" cy="95" r="54" fill="#203b68" stroke="#d6ad52" stroke-width="3"/>
+  <path d="M110 58c-15 16-18 29-9 41-12-2-19-12-19-25 0-11 6-23 18-33 3 8 8 12 14 17 8 7 12 14 12 23 0 11-6 20-16 23 8-16 3-28 0-46z" fill="#f5c542"/>
+  <path d="M103 103h14v31h-14z" fill="#d6ad52"/>
+  <path d="M82 132c11-10 45-10 56 0v18c-14-8-42-8-56 0z" fill="#f5c542"/>
+  <path d="M84 148c14-7 38-7 52 0" fill="none" stroke="#172b4d" stroke-width="3"/>
+  <text x="110" y="178" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">107TH</text>
+  <text x="110" y="197" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#d6ad52">DETACHMENT</text>
+</svg>
