@@ -56,7 +56,7 @@ Supported JP-8 aviation-fuel supply and logistics for the 90th Aviation Support 
 
 Supported transportation logistics for the 103rd in Houston, coordinating mission movement, equipment and personnel transportation, scheduling, accountability and operational readiness across supporting stakeholders.
 
-### <img src="https://raw.githubusercontent.com/mannyedore-lang/mannyedore-lang/main/assets/107th-chaplain-detachment-badge.svg" alt="107th Chaplain Detachment badge" width="38"> <img src="https://raw.githubusercontent.com/mannyedore-lang/mannyedore-lang/main/assets/121st-chaplain-detachment-badge.svg" alt="121st Chaplain Detachment badge" width="38"> U.S. Army Reserve — Detachment Command, 107th & 121st Chaplain Detachments
+### <img src="https://raw.githubusercontent.com/mannyedore-lang/mannyedore-lang/main/assets/107th-detachment-badge.svg" alt="107th Detachment badge" width="38"> <img src="https://raw.githubusercontent.com/mannyedore-lang/mannyedore-lang/main/assets/121st-detachment-badge.svg" alt="121st Detachment badge" width="38"> U.S. Army Reserve — Detachment Command, 107th & 121st Detachments
 
 Provided detachment command leadership for the 107th and 121st detachments, leading readiness, personnel coordination, mission planning, training, stakeholder engagement and unit operations.
 
