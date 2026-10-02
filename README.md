@@ -92,7 +92,7 @@ Key areas included asset/inventory structure, ownership and accountability, risk
 
 ### <img src="https://www.google.com/s2/favicons?domain=phillips66.com&amp;sz=128" alt="Phillips 66 logo" width="28" height="28"> Phillips 66 — Refinery Technology, IT Portfolio & Continuous Improvement
 
-Served as Senior Program Manager, Continuous Improvement, supporting enterprise technology portfolio management and project controls across Phillips 66's Refining and broader downstream operating environment. The role connected refinery technology investment, IT financial management, portfolio governance, forecasting, resource planning and continuous improvement with executive decision-making.
+Led enterprise technology portfolio management and project controls across Phillips 66's Refining and broader downstream operating environment. The role connected refinery technology investment, IT financial management, portfolio governance, forecasting, resource planning and continuous improvement with executive decision-making.
 
 Key work included Portfolio Dashboards L1-L3, Forecast Variance reporting, SRB reporting, Resource Utilization, Audit reporting, ServiceNow Phase 2, Unified Data Model work spanning ServiceNow/Azure DevOps/Excel/SAP, Project Online remediation/deprecation planning, long-range planning, IT budget and forecast controls, and SPM/Demand Management vendor evaluation involving ServiceNow SPM, Fluid and Planisware.
 
