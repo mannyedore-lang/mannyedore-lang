@@ -6,13 +6,13 @@ Technology Executive | Technical Program Manager | Salesforce & AI Transformatio
 
 **Ph.D. Candidate, Emerging Technologies (Generative AI)**
 
-*Gartner Consulting Executive*
-
 This GitHub is a curated executive technology portfolio documenting selected programs, transformation initiatives, delivery frameworks and technical case studies from a 21+ year professional career. It is designed to show the progression of my work across enterprise technology—not the age of this GitHub account.
 
 My experience spans complex global programs across Salesforce/CRM, AI and autonomous automation, financial services and wealth management, refinery and energy technology, sustainability data, cybersecurity, cloud, industrial technology, grid automation, enterprise platforms and digital operations.
 
 ### Career Portfolio at a Glance
+
+*Gartner Consulting Executive*
 
 **2005–2014:** Computer software and hardware sales, enterprise technology, infrastructure, operations, program delivery and the foundation for large-scale transformation leadership.
 
