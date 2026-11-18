@@ -18,7 +18,7 @@ My experience spans complex global programs across Salesforce/CRM, AI and autono
 
 **2018–2022:** Salesforce and CRM transformation, global delivery, M&A data migration, Experience Cloud, Field Service, integration, localization and enterprise Agile programs—including JLL, CBRE / Trammell Crow integration work, Entergy and other enterprise environments.
 
-**2023–2026:** AI-enabled transformation, Agentforce, autonomous workflows, cybersecurity/CMMC, refinery technology, enterprise PMO/portfolio analytics, financial-services technology, grid automation and global program leadership. Gartner Consulting Executive.
+**2023–2026:** AI-enabled transformation, Agentforce, autonomous workflows, cybersecurity/CMMC, refinery technology, enterprise PMO/portfolio analytics, financial-services technology, grid automation, Gartner Consulting Executive, and global program leadership.
 
 ## Salesforce Development, AI & Program Leadership
 
